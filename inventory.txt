@@ -1,0 +1,10 @@
+{"2000": {"name": "Choco Cake", "quant": 34, "prod": 100},
+ "2001": {"name": "Milk Cake", "prod": 800, "quant": 100},
+ "2002": {"name": "Drink", "prod": 85, "quant": 100},
+ "2003": {"name": "Candy", "prod": 5, "quant": 1000},
+ "2004": {"name": "Pen", "prod": 20, "quant": 100},
+ "2005": {"name": "Phone", "prod": 50000, "quant": 10},
+ "2006": {"name": "Mic", "prod": 1500, "quant": 0},
+ "2007": {"name": "Case", "prod": 599, "quant": 5},
+ "2008": {"name": "Keyboard", "prod": 1999, "quant": 10},
+ "2009": {"name": "comb", "prod": 200, "quant": 12}}
